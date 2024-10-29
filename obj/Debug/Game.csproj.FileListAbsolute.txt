@@ -1,0 +1,21 @@
+C:\Users\Kolob\OneDrive\Рабочий стол\C# новы\3 курс\ТиОПО\Game\bin\Debug\Game.exe.config
+C:\Users\Kolob\OneDrive\Рабочий стол\C# новы\3 курс\ТиОПО\Game\bin\Debug\Game.exe
+C:\Users\Kolob\OneDrive\Рабочий стол\C# новы\3 курс\ТиОПО\Game\bin\Debug\Game.pdb
+C:\Users\Kolob\OneDrive\Рабочий стол\C# новы\3 курс\ТиОПО\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+C:\Users\Kolob\OneDrive\Рабочий стол\C# новы\3 курс\ТиОПО\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Kolob\OneDrive\Рабочий стол\C# новы\3 курс\ТиОПО\Game\obj\Debug\Game.exe
+C:\Users\Kolob\OneDrive\Рабочий стол\C# новы\3 курс\ТиОПО\Game\obj\Debug\Game.pdb
+C:\Users\Nikita\Desktop\Игра с числами\Game\bin\Debug\Game.exe.config
+C:\Users\Nikita\Desktop\Игра с числами\Game\bin\Debug\Game.exe
+C:\Users\Nikita\Desktop\Игра с числами\Game\bin\Debug\Game.pdb
+C:\Users\Nikita\Desktop\Игра с числами\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+C:\Users\Nikita\Desktop\Игра с числами\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\Игра с числами\Game\obj\Debug\Game.exe
+C:\Users\Nikita\Desktop\Игра с числами\Game\obj\Debug\Game.pdb
+C:\Users\Nikita\Desktop\Учеба\otladka po\Игра с числами\Game\bin\Debug\Game.exe.config
+C:\Users\Nikita\Desktop\Учеба\otladka po\Игра с числами\Game\bin\Debug\Game.exe
+C:\Users\Nikita\Desktop\Учеба\otladka po\Игра с числами\Game\bin\Debug\Game.pdb
+C:\Users\Nikita\Desktop\Учеба\otladka po\Игра с числами\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+C:\Users\Nikita\Desktop\Учеба\otladka po\Игра с числами\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\Учеба\otladka po\Игра с числами\Game\obj\Debug\Game.exe
+C:\Users\Nikita\Desktop\Учеба\otladka po\Игра с числами\Game\obj\Debug\Game.pdb
